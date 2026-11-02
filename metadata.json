@@ -1,0 +1,6 @@
+{
+  "name": "SunPeak Energy — Solar & Roof Savings Estimator",
+  "description": "Instant residential solar and roof savings estimator for SunPeak Energy featuring a 4-step interactive calculator, animated 10-year ROI dashboard, and free inspection booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
